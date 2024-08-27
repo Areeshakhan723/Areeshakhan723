@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Areeshakhan723
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Typescript & Python
+- 🌱 I’m currently learning Next.JS
  
 
 <!---
