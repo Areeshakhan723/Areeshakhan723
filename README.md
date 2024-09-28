@@ -1,4 +1,5 @@
-![Profile Banner](![Untitled design (5)](https://github.com/user-attachments/assets/f6df477c-5416-4f4d-8020-2e5cfd72a212)) <!-- Replace with your own image link -->
+![Profile Banner](![Uploading Githbub banner.png…]()
+)](https://github.com/user-attachments/assets/f6df477c-5416-4f4d-8020-2e5cfd72a212) <!-- Replace with your own image link -->
 # Hi there! 👋 I'm a passionate frontend developer
 
 Hi there! 👋 I'm a frontend developer who loves building responsive and interactive web applications. I'm constantly improving my skills, and I'm currently diving deep into **Next.js**.
