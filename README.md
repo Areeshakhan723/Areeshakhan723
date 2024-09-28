@@ -3,7 +3,7 @@
 Hi there! 👋 I'm a frontend developer who loves building responsive and interactive web applications. I'm constantly improving my skills, and I'm currently diving deep into **Next.js**.
 
 💻 Frontend Developer | HTML | CSS | JavaScript | TypeScript | Tailwind CSS | React | Next.js Learner
-![Profile Banner](![Uploading WhatsApp Image 2024-09-28 at 16.06.21_ba934384.jpg…]()
+![Profile Banner](![Untitled design (4)](https://github.com/user-attachments/assets/0b146587-8774-4148-8abb-0662655cac53)
 ) <!-- Replace with your own image link -->
 
 ---
