@@ -32,9 +32,6 @@ Hi there! 👋 I'm a frontend developer who loves building responsive and intera
 
 Here are some of the projects I've built:
 
-### 🌱 Projects
-
-### 🌱 Projects
 
 - 🎮 [Text-Based Adventure Game](https://github.com/Areeshakhan723/Text-Based-Adventure-Game) - A command-line-based adventure game built using pure TypeScript.
 - 📘 [Student Management System](https://github.com/Areeshakhan723/Student_management_System_project_07) - A command-line-based system to manage students, built with pure TypeScript.
