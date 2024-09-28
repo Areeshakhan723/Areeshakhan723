@@ -1,7 +1,8 @@
-# 💻 Frontend Developer | HTML | CSS | JavaScript | TypeScript | Tailwind CSS | React | Next.js Learner
+# Hi there! 👋 I'm a passionate frontend developer
 
-Hi there! 👋 I'm a passionate frontend developer who loves building responsive and interactive web applications. I'm constantly improving my skills, and I'm currently diving deep into **Next.js**.
+Hi there! 👋 I'm a frontend developer who loves building responsive and interactive web applications. I'm constantly improving my skills, and I'm currently diving deep into **Next.js**.
 
+💻 Frontend Developer | HTML | CSS | JavaScript | TypeScript | Tailwind CSS | React | Next.js Learner
 ![Profile Banner](https://your-image-link-here.com) <!-- Replace with your own image link -->
 
 ---
@@ -44,7 +45,7 @@ Here are some of the projects I've built:
 
 ### 🛠️ How to reach me:
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/areesha-khan-04bb07305/)
 - Portfolio: [Your Portfolio](https://your-portfolio-link.com)
 
 ---
