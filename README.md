@@ -1,4 +1,4 @@
-![Githbub banner](https://github.com/user-attachments/assets/97efad45-bdca-4fa8-a390-8f4e02c750ac)![Githbub banner](https://github.com/user-attachments/assets/68b6054c-e9df-4b30-b4b6-202ba182f818)![Profile Banner](![Uploading Githbub banner.png…]
+![Githbub banner](https://github.com/user-attachments/assets/68b6054c-e9df-4b30-b4b6-202ba182f818)![Profile Banner](![Uploading Githbub banner.png…]
 )
 
 
