@@ -1,5 +1,4 @@
-![Githbub banner](https://github.com/user-attachments/assets/68b6054c-e9df-4b30-b4b6-202ba182f818)![Profile Banner](![Uploading Githbub banner.png…]
-)
+![Githbub banner](https://github.com/user-attachments/assets/68b6054c-e9df-4b30-b4b6-202ba182f818)
 
 
 # Hi there! 👋 I'm a passionate frontend developer
