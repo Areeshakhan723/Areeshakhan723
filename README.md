@@ -45,7 +45,6 @@ Here are some of the projects I've built:
 ### 🛠️ How to reach me:
 
 - LinkedIn: [Areesha Khan LinkedIn](https://www.linkedin.com/in/areesha-khan-04bb07305/)
-- Portfolio: [Your Portfolio](https://your-portfolio-link.com)
 
 ---
 
