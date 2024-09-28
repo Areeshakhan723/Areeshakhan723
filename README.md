@@ -5,10 +5,8 @@
 
 Hi there! 👋 I'm a frontend developer who loves building responsive and interactive web applications. I'm constantly improving my skills, and I'm currently diving deep into **Next.js**.
 
-💻 Frontend Developer | HTML | CSS | JavaScript | TypeScript | Tailwind CSS | React | Next.js Learner
+# 💻 Frontend Developer | HTML | CSS | JavaScript | TypeScript | Tailwind CSS | React | Next.js Learner
 
-
----
 
 ### 🛠️ Tech Stack
 
@@ -24,7 +22,8 @@ Hi there! 👋 I'm a frontend developer who loves building responsive and intera
 
 ### 📚 Currently Learning
 
-- **Next.js** 🧠
+- **Next.js** ![image](https://github.com/user-attachments/assets/36f6c824-902a-4074-bd4f-68777c4b0e8b)
+
 - Improving my **React.js** skills ⚛️
   
 ---
