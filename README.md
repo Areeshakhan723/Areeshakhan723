@@ -22,7 +22,7 @@ Hi there! 👋 I'm a frontend developer who loves building responsive and intera
 
 ### 📚 Currently Learning
 
-- **Next.js** ![image](https://github.com/user-attachments/assets/36f6c824-902a-4074-bd4f-68777c4b0e8b)
+- **Next.js** 🧠
 
 - Improving my **React.js** skills ⚛️
   
@@ -32,11 +32,16 @@ Hi there! 👋 I'm a frontend developer who loves building responsive and intera
 
 Here are some of the projects I've built:
 
-- 📝 **Task Manager App** - A responsive task management app using HTML, CSS, and TypeScript.
-- 🛒 **Amazon Clone** - A fully responsive clone of Amazon's homepage with HTML and CSS.
-- 🔢 **Calculator** - A functional calculator with JavaScript and TypeScript.
+### 🌱 Projects
 
----
+### 🌱 Projects
+
+- 🎮 [Text-Based Adventure Game](https://github.com/Areeshakhan723/Text-Based-Adventure-Game) - A command-line-based adventure game built using pure TypeScript.
+- 📘 [Student Management System](https://github.com/Areeshakhan723/Student_management_System_project_07) - A command-line-based system to manage students, built with pure TypeScript.
+- 🏆 [Hackathon Project](https://github.com/Areeshakhan723/hackathone_milestone_5) - Developed with HTML, CSS, and TypeScript during a hackathon under the Governor Sindh IT Initiative course.
+- 🔐 [Password Generator](https://github.com/Areeshakhan723/password_generator) - A password generator using React, JavaScript, and React hooks, Tailwind CSS.
+
+---                                                 
 
 ### 📈 GitHub Stats
 
