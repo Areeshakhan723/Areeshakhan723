@@ -3,7 +3,7 @@
 Hi there! 👋 I'm a frontend developer who loves building responsive and interactive web applications. I'm constantly improving my skills, and I'm currently diving deep into **Next.js**.
 
 💻 Frontend Developer | HTML | CSS | JavaScript | TypeScript | Tailwind CSS | React | Next.js Learner
-![Profile Banner](https://your-image-link-here.com) <!-- Replace with your own image link -->
+![Profile Banner](https://www.figma.com/design/CRmpPXmm6LJpfG6nrFMqmo/README-Github-Banner-(Community)?node-id=0-1&t=28OVCAp090w9mhxg-1) <!-- Replace with your own image link -->
 
 ---
 
