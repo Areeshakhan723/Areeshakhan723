@@ -32,7 +32,9 @@ Here are some of the projects I've built:
 - 📘 [Student Management System](https://github.com/Areeshakhan723/Student_management_System_project_07) - A command-line-based system to manage students, built with pure TypeScript.
 - 🏆 [Hackathon Project](https://github.com/Areeshakhan723/hackathone_milestone_5) - Developed with HTML, CSS, and TypeScript during a hackathon under the Governor Sindh IT Initiative course.
 - 🔐 [Password Generator](https://github.com/Areeshakhan723/password_generator) - A command-line-based password generator using React, JavaScript, and React hooks, styled with Tailwind CSS.
-- 
+- 🌟 [Personal Portfolio](https://portfolio-using-next-js-tailwind-css-pi.vercel.app/) -🚀 A modern and responsive portfolio website built using Next.js and Tailwind CSS. This portfolio showcases my projects, skills, and experiences as a frontend developer.
+
+
 ---
 
 ### 📈 GitHub Stats
