@@ -6,7 +6,10 @@ As a developer who enjoys building responsive and interactive web applications, 
 
 ## 💻 Frontend Developer | HTML | CSS | JavaScript | TypeScript | Tailwind CSS | React | Next.js Learner
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
+
+Here are the technologies I work with:
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -14,6 +17,8 @@ As a developer who enjoys building responsive and interactive web applications, 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Sanity](https://img.shields.io/badge/sanity-%23F03E2F.svg?style=for-the-badge&logo=sanity&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
@@ -34,6 +39,7 @@ Here are some of the projects I've built:
 - 🏆 [Hackathon Project](https://github.com/Areeshakhan723/hackathone_milestone_5) - Developed with HTML, CSS, and TypeScript during a hackathon under the Governor Sindh IT Initiative course.
 - 🔐 [Password Generator](https://github.com/Areeshakhan723/password_generator) - A command-line-based password generator using React, JavaScript, and React hooks, styled with Tailwind CSS.
 - 🌟 [Personal Portfolio](https://portfolio-using-next-js-tailwind-css-pi.vercel.app/) -🚀 A modern and responsive portfolio website built using Next.js and Tailwind CSS. This portfolio showcases my projects, skills, and experiences as a frontend developer.
+  
 
 ---
 
@@ -41,12 +47,13 @@ Here are some of the projects I've built:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Areeshakhan723&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Areeshakhan723&layout=compact&theme=radical)
-
 ---
 
-### 🛠️ How to reach me:
+- ### 📫 Let's Connect!
 
-- LinkedIn: [Areesha Khan LinkedIn](https://www.linkedin.com/in/areesha-khan-04bb07305/)
+- [[Areesha Khan LinkedIn](https://www.linkedin.com/in/areesha-khan-04bb07305/)
+- [Portfolio](https://portfolio-using-next-js-tailwind-css-pi.vercel.app/)
+
 
 ---
 
