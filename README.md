@@ -19,21 +19,21 @@ As a developer who enjoys building responsive and interactive web applications, 
 
 ### 📚 Currently Learning
 
-- **Next.js** 🧠
-- Improving my **Next.js** skills ⚛️
+- **Python** 🧠
+- Improving my **Python** skills ⚛️
 
 ---
 
 ### 🌱 Projects
 
 Here are some of the projects I've built:
-
+-  [E-commerce website](https://ui-ux-hackathone-six.vercel.app/) -This project is an E-commerce website developed during a hackathon challenge. The website focuses on UI/UX design and features a fully responsive interface. It was built using Next.js, Tailwind CSS, and TypeScript, and deployed on Vercel.
+-   [Travel Booking & Packages Landing Page website](https://tavel-website.vercel.app/)This project features  with a clean, responsive UI, built using React, Next.js, and Tailwind CSS,the website leverages a Figma-inspired inspired design along with my own creativity to enhance user experience
 - 🎮 [Text-Based Adventure Game](https://github.com/Areeshakhan723/Text-Based-Adventure-Game) - A command-line-based adventure game built using pure TypeScript.
 - 📘 [Student Management System](https://github.com/Areeshakhan723/Student_management_System_project_07) - A command-line-based system to manage students, built with pure TypeScript.
 - 🏆 [Hackathon Project](https://github.com/Areeshakhan723/hackathone_milestone_5) - Developed with HTML, CSS, and TypeScript during a hackathon under the Governor Sindh IT Initiative course.
 - 🔐 [Password Generator](https://github.com/Areeshakhan723/password_generator) - A command-line-based password generator using React, JavaScript, and React hooks, styled with Tailwind CSS.
 - 🌟 [Personal Portfolio](https://portfolio-using-next-js-tailwind-css-pi.vercel.app/) -🚀 A modern and responsive portfolio website built using Next.js and Tailwind CSS. This portfolio showcases my projects, skills, and experiences as a frontend developer.
-
 
 ---
 
