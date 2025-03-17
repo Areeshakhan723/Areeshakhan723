@@ -4,30 +4,19 @@
 
 Welcome to my GitHub profile! I'm a **frontend developer** who loves building **responsive, interactive, and user-friendly web applications**. I'm constantly learning and improving my skills, and I'm currently diving deep into **Python** and **modern web development practices**.
 
-## 💻 Frontend Developer | HTML | CSS | JavaScript | TypeScript | Tailwind CSS | React | Next.js Learner
-
-## 🛠️ Tech Stack
-
-Here are the technologies I work with:
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Sanity](https://img.shields.io/badge/sanity-%23F03E2F.svg?style=for-the-badge&logo=sanity&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+## 💻 Frontend Developer | HTML | CSS | JavaScript | TypeScript | Tailwind CSS | React | Next.js | Python Learner
 
 ---
 ## 💻 About Me
 
-- 🚀 **Frontend Developer** specializing in  **Next.js**, and **Tailwind CSS**.
-- 💡 Passionate about creating **intuitive user interfaces** and **seamless user experiences**.
-- 📚 Currently learning **Python** and exploring **backend development** to become a full-stack developer.
-- 🔧 Always experimenting with new tools and technologies to stay updated in the ever-evolving tech world.
+I'm a **Frontend Developer** with expertise in **HTML**, **CSS**, **JavaScript**, **TypeScript**, **Tailwind CSS**, **React**, and **Next.js**. I'm passionate about building **responsive, interactive, and user-friendly web applications** that deliver seamless user experiences. Currently, I'm expanding my skill set by learning **Python** to explore backend development and become a **full-stack developer**.
 
+- 🚀 **Specializations:** Frontend Development, UI/UX Design, Responsive Web Design.
+- 💡 **Passionate About:** Creating intuitive user interfaces and seamless user experiences.
+- 🌱 **Currently Learning:** Python and exploring backend development to become a full-stack developer.
+- 🔧 **Always Experimenting:** With new tools and technologies to stay updated in the ever-evolving tech world.
+
+---
 ---
 
 ### 🌱 Projects
@@ -104,7 +93,7 @@ Here are some of the projects I've built to showcase my skills:
 - 
 I'm always open to collaborating on exciting projects or discussing new opportunities. Feel free to reach out to me:
 
-- [[Areesha Khan LinkedIn](https://www.linkedin.com/in/areesha-khan-04bb07305/)
+- [Areesha Khan LinkedIn](https://www.linkedin.com/in/areesha-khan-04bb07305/)
 - [Portfolio](https://portfolio-using-next-js-tailwind-css-pi.vercel.app/)
 
 
