@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I'm a **frontend developer** who loves building **responsive, interactive, and user-friendly web applications**. I'm constantly learning and improving my skills, and I'm currently diving deep into **Python** and **modern web development practices**.
 
-## 💻 Frontend Developer | HTML | CSS | JavaScript | TypeScript | Tailwind CSS | React | Next.js | Python Learner
+## 💻 Frontend Developer | HTML | CSS | JavaScript | TypeScript | Tailwind CSS | React | Next.js | Sanity CMS | Python Learner
 
 ---
 ## 💻 About Me
